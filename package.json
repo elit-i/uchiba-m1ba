@@ -1,0 +1,27 @@
+{
+  "name": "uchiba-m1ba",
+  "version": "1.0.0",
+  "description": "uchiba-m1ba-uchiba-m1ba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elit-i/uchiba-m1ba.git"
+  },
+  "author": "elit-i",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elit-i/uchiba-m1ba/issues"
+  },
+  "homepage": "https://github.com/elit-i/uchiba-m1ba#readme",
+  "dependencies": {
+    "esthe-goty34": "^1.0.0",
+    "minorr-o1d": "^1.0.0",
+    "sunehundapp": "^1.0.3",
+    "tnat-n-aew": "^1.0.0",
+    "wenel-appid": "^1.0.0",
+    "z1nn1s-app": "^1.0.0"
+  }
+}
